@@ -1,1 +1,2 @@
 # chatApp
+This a full functional chat app using socket io, nodejs, express, and vanillia javascript for the front end, has different rooms, updates in real time, multiple users, auto messages on enter and leave
